@@ -42,6 +42,7 @@ const (
 	baseProtocolMaxMsgSize = 2 * 1024
 
 	snappyProtocolVersion = 5
+	hellomayizhandaxiang = 19
 
 	pingInterval = 15 * time.Second
 )
